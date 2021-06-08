@@ -57,12 +57,12 @@ Daftar fitur dalam aplikasi website EngLearn sebagai berikut :
 
 
 Tutorial menggunakan aplikasi website EngLearn adalah sebagai berikut :
-1. Letakkan folder PTI_A06_Eng-Learn pada folder htdocs di direktori folder xampp.
+1. Letakkan folder PTI_A06_EngLearn pada folder htdocs di direktori folder xampp.
 1. Buka aplikasi XAMPP, kemudian start Apache dan MySQL.
 2. Buka browser, ketikkan localhost/phpmyadmin
 3. Pilih menu phpMyAdmin, lalu klik new untuk membuat folder baru. Beri nama folder menjadi " englearn ".
-4. Setelah berhasil membuat folder baru, pilih menu import, lalu pada choosen file pilih ketiga file dalam folder DB yang ada di dalam folder PTI_A06_Eng-Learn
-5. Buka tab baru di browser. Kemudian ketikkan localhost/PTI_A06_Eng-Learn/index.html
+4. Setelah berhasil membuat folder baru, pilih menu import, lalu pada choosen file pilih ketiga file dalam folder DB yang ada di dalam folder PTI_A06_EngLearn
+5. Buka tab baru di browser. Kemudian ketikkan localhost/PTI_A06_EngLearn/index.html
 6. Webiste siap dijalankan.
 
 
